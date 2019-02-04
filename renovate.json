@@ -1,3 +1,4 @@
 {
-  "maven": { "enabled": true }
+  "maven": { "enabled": true },
+  "includeForks": true
 }
